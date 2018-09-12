@@ -1,0 +1,38 @@
+{
+    "Work Upgrade": {
+    "name": "upgrade",
+    "type": "Work",
+    "price": "75",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+},
+   "Fish": {
+    "name": "bait",
+    "type": "fish",
+    "price": "15",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+},
+
+   "House": {
+    "name": "house",
+    "type": "house",
+    "price": "10000",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+},
+  
+   "Cash Multiplier": {
+    "name": "cash",
+    "type": "Multiplier",
+    "price": "1000",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+},
+   "Car": {
+    "name": "car",
+    "type": "car",
+    "price": "2000",
+    "desc": "Upgrade your restaurant to get more money! `+workstats` to review stats"
+}
+
+
+  
+  
+}

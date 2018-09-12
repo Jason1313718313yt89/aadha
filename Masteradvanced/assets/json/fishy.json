@@ -1,0 +1,20 @@
+{
+	"common": {
+    "type": "cm",
+		"symbol": ":tada: You caught a Common Fish 🐟 and you sold it for ",
+		"max": 30,
+		"min": 11
+	},
+	"uncommon": {
+        "type": "u",
+		"symbol": ":tada: You caught a Uncommon Fish 🐠 and you sold it for ",
+		"max": 50,
+		"min": 31
+	},
+	"rare": {
+   "type": "r",
+		"symbol": ":tada: You caught a  Rare Fish  🐡 and you sold it for ",
+		"max": 70,
+		"min": 50
+	}
+}

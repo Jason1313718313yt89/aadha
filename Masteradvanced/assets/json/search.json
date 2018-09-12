@@ -1,0 +1,29 @@
+{
+	"rotten": {
+		"symbol": "You Searched ",
+    "luck": "Very Unlucky for you! Try again Later!",
+		"max": 0,
+		"min": 0
+	},
+	"common": {
+		"symbol": "You searched ",
+        "luck": "Decent Messages Tracked",
+
+		"max": 29,
+		"min": 1
+	},
+	"uncommon": {
+		"symbol": "You searched ",
+        "luck": "Wow , I Detected some messages \"some i mean\" Alot!",
+
+		"max": 50,
+		"min": 10
+	},
+	"rare": {
+		"symbol": "You searched ",
+        "luck": "A Excellent Amount Messages Sent!",
+
+		"max": 70,
+		"min": 20
+	}
+}
